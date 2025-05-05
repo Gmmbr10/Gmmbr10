@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu GitHub!
 
-<!--
-**Gmmbr10/Gmmbr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Giovanne Monteiro de Melo (Gmmbr10) um estudante de Análise e Desenvolvimento de Sistemas, com formação técnica
+em Informática para Internet pela ETEC. Experiência prática com projetos em
+PHP, JavaScript, HTML/CSS, MySQL e arquitetura REST. Portfólio ativo no
+GitHub com aplicações completas de front-end e back-end.
 
-Here are some ideas to get you started:
+Tenho o objetivo de atuar como estagiário em TI ou desenvolvedor Júnior Full Stack, contribuindo
+com soluções eficientes em aplicações web, com foco em boas práticas de
+programação e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Informações atualizadas
+
+**Nome:** Giovanne Monteiro de Melo
+**Idade:** 18
+**Morando em:** Arujá - SP, Brasil
+**Stack:** PHP - MySQL - HTML - CSS - JavaScript
+**Aprendendo:** Laravel
+**Formação:** Técnico em Informática para Internet, ETEC de Santa Isabel - Tecnologia em Análise e Desenvolvimento de Sistemas - ENIAC
