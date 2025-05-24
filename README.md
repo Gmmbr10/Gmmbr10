@@ -3,7 +3,7 @@ import Desenvolvedor from "Gmmbr10";
 
 class SobreMim extends Desenvolvedor {
   nome        = "Giovanne Monteiro de Melo";
-  area        = ["Desenvolvedor FullStack","Desenvolvedor PHP"];
+  area        = ["Desenvolvedor Full Stack","Desenvolvedor Back End"];
   local       = "Arujá - São Paulo";
   aprendendo  = "Laravel";
   formacoes   = {
