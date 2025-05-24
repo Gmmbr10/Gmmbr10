@@ -2,11 +2,11 @@
 import Desenvolvedor from "Gmmbr10";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Giovanne Monteiro de Melo";
-  area = ["Desenvolvedor FullStack","Desenvolvedor PHP"];
-  local = "Arujá - São Paulo";
-  aprendendo = "Laravel";
-  formacoes = {
+  nome        = "Giovanne Monteiro de Melo";
+  area        = ["Desenvolvedor FullStack","Desenvolvedor PHP"];
+  local       = "Arujá - São Paulo";
+  aprendendo  = "Laravel";
+  formacoes   = {
     "Técnico em Informática para a Internet": {
       instituicao: "ETEC de Santa Isabel",
       inicio: "Fev/2022",
@@ -23,6 +23,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["PHP","MySQL","JavaScript","HTML","CSS","TailWindCSS"];
+  linguagens      = ["PHP","JavaScript","HTML","CSS"];
+  bancos_de_dados = ["MySQL"];
+  frameworks      = ["TailWind CSS"];
 }
 ```
