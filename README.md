@@ -8,16 +8,16 @@ class SobreMim extends Desenvolvedor {
   aprendendo  = "Laravel";
   formacoes   = {
     "Técnico em Informática para a Internet": {
-      instituicao: "ETEC de Santa Isabel",
-      inicio: "Fev/2022",
-      conclusao: "Dez/2024",
-      emAndamento: false
+      instituicao:  "ETEC de Santa Isabel",
+      inicio:       "Fev/2022",
+      conclusao:    "Dez/2024",
+      concluido:    true
     },
     "Tecnologia em Análise e Desenvolvimento de Sistemas": {
-      instituicao: "Centro Universitário ENIAC",
-      inicio: "Jan/2025",
-      conclusao: "Jun/2027",
-      emAndamento: true
+      instituicao:  "Centro Universitário ENIAC",
+      inicio:       "Jan/2025",
+      conclusao:    "Jun/2027",
+      concluido:    false
     }
   };
 }
