@@ -24,7 +24,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens      = ["PHP","JavaScript","HTML","CSS"];
-  bancos_de_dados = ["MySQL"];
+  banco_de_dados  = ["MySQL"];
   frameworks      = ["TailWind CSS"];
 }
 ```
