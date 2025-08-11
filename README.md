@@ -3,9 +3,9 @@ import Desenvolvedor from "Gmmbr10";
 
 class SobreMim extends Desenvolvedor {
   nome        = "Giovanne Monteiro de Melo";
-  area        = ["Desenvolvedor Full Stack","Desenvolvedor Back End"];
+  area        = ["Desenvolvedor Back End","Desenvolvedor Full Stack"];
   local       = "Arujá - São Paulo";
-  aprendendo  = "Laravel";
+  aprendendo  = "Java";
   formacoes   = {
     "Técnico em Informática para a Internet": {
       instituicao:  "ETEC de Santa Isabel",
@@ -23,7 +23,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens      = ["PHP","JavaScript","HTML","CSS"];
+  linguagens      = ["Java","PHP","JavaScript","HTML","CSS"];
   banco_de_dados  = ["MySQL"];
   frameworks      = ["TailWind CSS","Bootstrap"];
   ferramentas     = ["VsCode","Git","Docker"];
