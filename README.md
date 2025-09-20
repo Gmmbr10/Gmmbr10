@@ -12,8 +12,8 @@ Além de aceitar oportunidades remotas e presenciais em São Paulo.
 
 ## 💻 Tecnologias e ferramentas que conheço
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
@@ -25,7 +25,7 @@ Além de aceitar oportunidades remotas e presenciais em São Paulo.
 
 ## 📚 Atualmente estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="40"/>
 
 ## 🔭 O que eu quero aprender
 
