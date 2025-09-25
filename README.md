@@ -2,7 +2,7 @@
 
 ## Eu sou Giovanne Monteiro, e o meu nick é Gmmbr10
 
-Sou um desenvolvedor backend que também no suporte a interfaces frontend quando necessário.
+Sou um desenvolvedor fullstack.
 
 ## 👥 Estou procurando colaborar em
 
