@@ -1,12 +1,12 @@
 ### Hey there! 😄
 
-I'm Giovanne, a software engineer based on Brazil.
+I'm Giovanne, a software developer based on Brazil.
 
 I'm curious about IT, so I'm always studying it.
 
 I'm capable of developing full-stack applications.
 
-My main tech stack is: React and Nodejs, with integration of PostgreSQL, Typescript and Docker.
+My main tech stack is: React and Nodejs, with integration of PostgreSQL and Docker.
 Despite that, I've experience with PHP, Java and MySQL and know Laravel.
 
 I've some public repositories with React and Nodejs because I developed projects and didn't publish them here 😢.
